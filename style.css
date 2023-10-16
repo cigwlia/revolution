@@ -22,7 +22,10 @@ justify-content: space-around;
 align-items: center;
 }
 
-
+nav li {
+    display: inline;
+    pad: 20px;
+}
 
 h1 {
     font-size: 50px;
